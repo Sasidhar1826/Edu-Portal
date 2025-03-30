@@ -1,6 +1,6 @@
 ## The Demonstration video of the project is in the Youtube
 
-[Youtube Demo link: ](https://youtu.be/j45Pi8nYEkg)
+https://youtu.be/j45Pi8nYEkg
 
 ## EdTech Portal
 
